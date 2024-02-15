@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]()
+
 <h1 align="center">Hi 👋, I'm Nishita Gupta</h1>
 <h3 align="center">Hey there, I'm Nishita Gupta – a happy-go-lucky software developer who is enthusiastic about all things tech. I love to code, design webpages, and explore new ideas on the internet.</h3>
 
